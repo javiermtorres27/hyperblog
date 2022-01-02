@@ -6,4 +6,6 @@ Hablaremos de su historia.
 
 master 1
 
+master 2
+
 Actualmente está estudiando lenguajes de programación.
