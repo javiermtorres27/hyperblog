@@ -4,4 +4,6 @@ Javier Torres tiene 33 años y nació en Colombia. Estudió ingeniería industri
 
 Hablaremos de su historia.
 
+master 1
+
 Actualmente está estudiando lenguajes de programación.
